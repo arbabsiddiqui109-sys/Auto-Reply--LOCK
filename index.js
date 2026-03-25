@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "5832771523456241";        // Group ka ID
-const LOCKED_GROUP_NAME = "SANGAM URF JACK KI MAA BAHEN KI CHUT PHAT KAR DAFAN";     // Locked name
+const GROUP_THREAD_ID = "1457031772812426";        // Group ka ID
+const LOCKED_GROUP_NAME = "राज (+) अंशुमान (+) प्रिंस (+) संजय तेरी बहन को रण्डी बना कर उसकी चूत पर लैंड मरूंगा मादरचोद राज का बाप रोंनी हियर 🩷😃";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();

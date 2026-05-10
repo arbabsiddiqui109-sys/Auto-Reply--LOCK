@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "1436802120780449";        // Group ka ID
-const LOCKED_GROUP_NAME = "राजवीर (+) शिवराज की बहन को नंगी करके चोदने वाला लीजेंड धीरज हियर  🩷😃";     // Locked name
+const GROUP_THREAD_ID = "6156788591020552";        // Group ka ID
+const LOCKED_GROUP_NAME = "SANIYA KII MAA SUMIT KAA LODA CHUSS KAR MAR GAYI 🩷😃";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
